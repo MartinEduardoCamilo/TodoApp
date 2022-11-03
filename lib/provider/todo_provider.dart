@@ -6,5 +6,4 @@ import 'package:flutter/material.dart';
 class TodoProvide extends ChangeNotifier{
 
 
-
 }
